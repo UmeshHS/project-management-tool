@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Management Tool
 
 ## How to Run
@@ -17,3 +18,6 @@
 - Basic authentication can be added.
 - Relationships for teams can be expanded.
 - Status tracking included for tasks.
+=======
+# project-management-tool
+>>>>>>> d5fb5bc522b70b5612dc10dcde3febc9e3ca038a
